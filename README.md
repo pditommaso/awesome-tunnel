@@ -7,3 +7,4 @@ A curated list of awesome proxy tunnel tools and services inspired by [Awesome S
 * [Bore](https://github.com/ekzhang/bore)
 * [Localtunnel](https://theboroer.github.io/localtunnel-www/)
 * [Ngrok](https://ngrok.com/)
+* [Slim](https://github.com/kamranahmedse/slim) - Give your localhost a local or public URL
